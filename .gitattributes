@@ -7,3 +7,4 @@ vendor.rar filter=lfs diff=lfs merge=lfs -text
 node_modules.rar filter=lfs diff=lfs merge=lfs -text
 php.rar filter=lfs diff=lfs merge=lfs -text
 ioncube_encoder_evaluation.zip filter=lfs diff=lfs merge=lfs -text
+ioncube_encoder5_production.rar filter=lfs diff=lfs merge=lfs -text
